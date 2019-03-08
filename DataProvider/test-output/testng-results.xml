@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9462" started-at="2019-03-08T09:47:22Z" finished-at="2019-03-08T09:47:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9462" started-at="2019-03-08T09:47:22Z" finished-at="2019-03-08T09:47:31Z">
+      <class name="com.qait.DataProvider.TestClassDp">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="beforeClass" is-config="true" duration-ms="3713" started-at="2019-03-08T09:47:22Z" finished-at="2019-03-08T09:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Test01_launch()[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="Test01_launch" duration-ms="2153" started-at="2019-03-08T09:47:26Z" finished-at="2019-03-08T09:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_launch -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="282" started-at="2019-03-08T09:47:28Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="253" started-at="2019-03-08T09:47:28Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="277" started-at="2019-03-08T09:47:29Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="271" started-at="2019-03-08T09:47:29Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="315" started-at="2019-03-08T09:47:29Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="266" started-at="2019-03-08T09:47:30Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="275" started-at="2019-03-08T09:47:30Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="246" started-at="2019-03-08T09:47:30Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="287" started-at="2019-03-08T09:47:30Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="326" started-at="2019-03-08T09:47:31Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="testMethod" duration-ms="321" started-at="2019-03-08T09:47:31Z" data-provider="SearchProvider" finished-at="2019-03-08T09:47:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qait.DataProvider.TestClassDp@1a968a59]" name="afterClass" is-config="true" duration-ms="113" started-at="2019-03-08T09:47:31Z" finished-at="2019-03-08T09:47:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qait.DataProvider.TestClassDp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
